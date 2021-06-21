@@ -1,3 +1,0 @@
-print("Hisssssss")
-
-print("roar!")
